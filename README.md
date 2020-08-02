@@ -1,4 +1,7 @@
-# - My Profile - 
+
+![header](assets/image.png)
+# ~ My Profile ~ 
+
 
 ### Hi! there ✋
 #### I'm Koji Torishima📱
