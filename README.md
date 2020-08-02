@@ -3,7 +3,8 @@
 ## Hi! there ✋
 #### I'm Koji Torishima📱
 - I'm working as an iOS engineer.
-- Skills:
+
+### Skills:
 ![](Assets/swift.png)![](Assets/swiftui.png)![](Assets/react-native.png)![](Assets/javascript.png)![](Assets/typescript.png)![](Assets/git.png)
 
 
