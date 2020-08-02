@@ -5,8 +5,7 @@
 - I'm working as an iOS engineer.
 
 ### Skills:
-![](Assets/swift.svg)![](Assets/swiftui.svg)![](Assets/react-native.svg)![](Assets/javascript.svg)![](Assets/typescript.svg)![](Assets/git.svg)
-
+<img src="https://img.icons8.com/color/48/000000/typescript.svg"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koji-torishima&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 
