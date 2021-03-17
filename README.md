@@ -1,4 +1,4 @@
-![heder](https://user-images.githubusercontent.com/52149750/89117344-eef03c00-d4d7-11ea-9930-c004d8b342f7.png)
+<!--![heder](https://user-images.githubusercontent.com/52149750/89117344-eef03c00-d4d7-11ea-9930-c004d8b342f7.png)>
 
 # ~ My Profile ~ 
 ### Hi! there ✋
