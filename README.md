@@ -1,6 +1,6 @@
 
 
-# ~ My Profile ~ 
+# My Profile 
 ### Hi! there ✋
 #### I'm Koji Torishima📱
 - I'm working as an iOS Developer.
