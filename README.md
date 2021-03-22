@@ -1,8 +1,6 @@
 
-
-# My Profile 
-### Hi! there ✋
-#### I'm Koji Torishima📱
+## Hi! there ✋
+### I'm Koji Torishima📱
 - I'm working as an iOS Developer.
 - I really like mobile app development!
 
