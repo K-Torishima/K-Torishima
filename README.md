@@ -1,7 +1,7 @@
 
 ## Hi! there ✋
 ### I'm Koji Torishima📱
-- I'm working as an iOS Developer.
+- I'm working as an Mobile Application Engineer.
 - I really like mobile app development!
 
 <!-- ### Skills: -->
