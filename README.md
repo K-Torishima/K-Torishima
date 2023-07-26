@@ -7,7 +7,7 @@
 <!-- ### Skills: -->
 <!-- <img src="https://img.icons8.com/color/48/000000/swift.svg"/><img src="https://img.icons8.com/fluent/48/000000/swiftui.svg"/><img src="https://img.icons8.com/color/48/000000/git.svg"/><img src="https://img.icons8.com/color/48/000000/xcode.svg"/><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.svg"/>
  -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=K-Torishima&count_private=true&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Torishima&layout=compact&count_private=true&show_icons=true&hide_border=true)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=K-Torishima&count_private=true&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Torishima&layout=compact&count_private=true&show_icons=true&hide_border=true) -->
 
 <!--これはみて欲しいレポジトリを追加できる>
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
