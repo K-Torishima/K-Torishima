@@ -1,8 +1,6 @@
 
 ## Hi! there ✋
 ### I'm K-Torishima📱
-- I'm working as an Mobile Application Engineer.
-- I really like mobile app development!
 
 <!-- ### Skills: -->
 <!-- <img src="https://img.icons8.com/color/48/000000/swift.svg"/><img src="https://img.icons8.com/fluent/48/000000/swiftui.svg"/><img src="https://img.icons8.com/color/48/000000/git.svg"/><img src="https://img.icons8.com/color/48/000000/xcode.svg"/><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.svg"/>
